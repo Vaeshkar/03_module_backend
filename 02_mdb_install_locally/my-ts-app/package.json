@@ -1,0 +1,26 @@
+{
+  "name": "my-ts-app",
+  "version": "1.0.0",
+  "description": "Running typescript locally",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch src/app.ts",
+    "prebuild": "rm -rf dist",
+    "build": "tsc",
+    "prestart": "npm run build",
+    "start": "node dist/app.js"
+  },
+  "imports": {
+    "#app": "./src/app.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "typescript": "^5.8.3"
+  }
+}
