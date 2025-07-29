@@ -5,17 +5,10 @@
   "main": "dist/app.js",
   "type": "module",
   "imports": {
-    "#utils": {
-      "development": "./src/utils/index.ts",
-      "default": "./dist/utils/index.js"
-    }
+    "#db": "./src/db/index.ts"
   },
   "scripts": {
-    "dev": "node --watch --conditions development src/app.ts",
-    "prebuild": "rm -rf dist",
-    "build": "tsc",
-    "prestart": "npm run build",
-    "start": "node dist/app.js"
+    "start": "node --env-file=.env src/app.ts"
   },
   "keywords": [],
   "author": "",
@@ -23,5 +16,10 @@
   "devDependencies": {
     "@types/node": "^24.0.14",
     "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "commander": "^14.0.0",
+    "mongodb": "^6.18.0",
+    "monodb": "^1.5.1"
   }
 }
