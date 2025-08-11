@@ -1,0 +1,40 @@
+{
+  "name": "wbs-node-ts-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/app.js",
+  "type": "module",
+  "imports": {
+    "#db.index.ts": {
+      "development": "./src/db.index.ts",
+      "default": "./dist/db.index.js"
+    },
+    "#*": {
+      "development": "./src/*",
+      "default": "./dist/*"
+    },
+    "#utils": {
+      "development": "./src/utils/index.ts",
+      "default": "./dist/utils/index.js"
+    }
+  },
+  "scripts": {
+    "dev": "node --watch --conditions development src/app.ts",
+    "prebuild": "rm -rf dist",
+    "build": "tsc",
+    "prestart": "npm run build",
+    "start": "node dist/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/mongoose": "^5.11.96",
+    "@types/node": "^24.0.14",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "mongoose": "^8.17.1"
+  }
+}
