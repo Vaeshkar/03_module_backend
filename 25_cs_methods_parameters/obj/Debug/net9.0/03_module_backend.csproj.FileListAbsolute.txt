@@ -1,0 +1,15 @@
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/25_cs_methods_parameters/bin/Debug/net9.0/03_module_backend
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/25_cs_methods_parameters/bin/Debug/net9.0/03_module_backend.deps.json
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/25_cs_methods_parameters/bin/Debug/net9.0/03_module_backend.runtimeconfig.json
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/25_cs_methods_parameters/bin/Debug/net9.0/03_module_backend.dll
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/25_cs_methods_parameters/bin/Debug/net9.0/03_module_backend.pdb
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/25_cs_methods_parameters/obj/Debug/net9.0/03_module_backend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/25_cs_methods_parameters/obj/Debug/net9.0/03_module_backend.AssemblyInfoInputs.cache
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/25_cs_methods_parameters/obj/Debug/net9.0/03_module_backend.AssemblyInfo.cs
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/25_cs_methods_parameters/obj/Debug/net9.0/03_module_backend.csproj.CoreCompileInputs.cache
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/25_cs_methods_parameters/obj/Debug/net9.0/03_module_backend.sourcelink.json
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/25_cs_methods_parameters/obj/Debug/net9.0/03_module_backend.dll
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/25_cs_methods_parameters/obj/Debug/net9.0/refint/03_module_backend.dll
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/25_cs_methods_parameters/obj/Debug/net9.0/03_module_backend.pdb
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/25_cs_methods_parameters/obj/Debug/net9.0/03_module_backend.genruntimeconfig.cache
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/25_cs_methods_parameters/obj/Debug/net9.0/ref/03_module_backend.dll

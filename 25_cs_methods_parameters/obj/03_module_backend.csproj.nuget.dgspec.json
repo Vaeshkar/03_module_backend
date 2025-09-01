@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/03_module_backend.csproj": {}
+    "/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/25_cs_methods_parameters/03_module_backend.csproj": {}
   },
   "projects": {
-    "/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/03_module_backend.csproj": {
+    "/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/25_cs_methods_parameters/03_module_backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/03_module_backend.csproj",
+        "projectUniqueName": "/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/25_cs_methods_parameters/03_module_backend.csproj",
         "projectName": "03_module_backend",
-        "projectPath": "/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/03_module_backend.csproj",
+        "projectPath": "/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/25_cs_methods_parameters/03_module_backend.csproj",
         "packagesPath": "/Users/leeuwen/.nuget/packages/",
-        "outputPath": "/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/obj/",
+        "outputPath": "/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/25_cs_methods_parameters/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/leeuwen/.nuget/NuGet/NuGet.Config"
