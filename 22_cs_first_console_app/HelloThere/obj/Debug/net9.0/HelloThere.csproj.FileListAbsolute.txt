@@ -1,0 +1,15 @@
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/22_cs_first_console_app/HelloThere/bin/Debug/net9.0/HelloThere
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/22_cs_first_console_app/HelloThere/bin/Debug/net9.0/HelloThere.deps.json
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/22_cs_first_console_app/HelloThere/bin/Debug/net9.0/HelloThere.runtimeconfig.json
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/22_cs_first_console_app/HelloThere/bin/Debug/net9.0/HelloThere.dll
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/22_cs_first_console_app/HelloThere/bin/Debug/net9.0/HelloThere.pdb
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/22_cs_first_console_app/HelloThere/obj/Debug/net9.0/HelloThere.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/22_cs_first_console_app/HelloThere/obj/Debug/net9.0/HelloThere.AssemblyInfoInputs.cache
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/22_cs_first_console_app/HelloThere/obj/Debug/net9.0/HelloThere.AssemblyInfo.cs
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/22_cs_first_console_app/HelloThere/obj/Debug/net9.0/HelloThere.csproj.CoreCompileInputs.cache
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/22_cs_first_console_app/HelloThere/obj/Debug/net9.0/HelloThere.sourcelink.json
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/22_cs_first_console_app/HelloThere/obj/Debug/net9.0/HelloThere.dll
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/22_cs_first_console_app/HelloThere/obj/Debug/net9.0/refint/HelloThere.dll
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/22_cs_first_console_app/HelloThere/obj/Debug/net9.0/HelloThere.pdb
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/22_cs_first_console_app/HelloThere/obj/Debug/net9.0/HelloThere.genruntimeconfig.cache
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/22_cs_first_console_app/HelloThere/obj/Debug/net9.0/ref/HelloThere.dll

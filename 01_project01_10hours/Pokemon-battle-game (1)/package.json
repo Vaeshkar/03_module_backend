@@ -1,0 +1,44 @@
+{
+  "name": "pokemon-battle",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "pnpm": ">=8"
+  },
+  "scripts": {
+    "preinstall": "npx only-allow pnpm",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "vitest",
+    "test:watch": "vitest --watch"
+  },
+  "dependencies": {
+    "next": "15.4.2",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^5",
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.3.0",
+    "@testing-library/user-event": "^14.6.1",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "dotenv": "^17.2.0",
+    "eslint": "^9",
+    "eslint-config-next": "15.4.2",
+    "jsdom": "^26.1.0",
+    "tailwindcss": "^4",
+    "daisyui": "^5.0.46",
+    "vitest": "^3.2.4"
+  },
+  "vitest": {
+    "setupFiles": "./vitest.setup.ts"
+
+  }
+}

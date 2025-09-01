@@ -1,0 +1,15 @@
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/24_cs_conditionals_loops/bin/Debug/net9.0/24_cs_conditionals_loops
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/24_cs_conditionals_loops/bin/Debug/net9.0/24_cs_conditionals_loops.deps.json
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/24_cs_conditionals_loops/bin/Debug/net9.0/24_cs_conditionals_loops.runtimeconfig.json
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/24_cs_conditionals_loops/bin/Debug/net9.0/24_cs_conditionals_loops.dll
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/24_cs_conditionals_loops/bin/Debug/net9.0/24_cs_conditionals_loops.pdb
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/24_cs_conditionals_loops/obj/Debug/net9.0/24_cs_conditionals_loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/24_cs_conditionals_loops/obj/Debug/net9.0/24_cs_conditionals_loops.AssemblyInfoInputs.cache
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/24_cs_conditionals_loops/obj/Debug/net9.0/24_cs_conditionals_loops.AssemblyInfo.cs
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/24_cs_conditionals_loops/obj/Debug/net9.0/24_cs_conditionals_loops.csproj.CoreCompileInputs.cache
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/24_cs_conditionals_loops/obj/Debug/net9.0/24_cs_conditionals_loops.sourcelink.json
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/24_cs_conditionals_loops/obj/Debug/net9.0/24_cs_conditionals_loops.dll
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/24_cs_conditionals_loops/obj/Debug/net9.0/refint/24_cs_conditionals_loops.dll
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/24_cs_conditionals_loops/obj/Debug/net9.0/24_cs_conditionals_loops.pdb
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/24_cs_conditionals_loops/obj/Debug/net9.0/24_cs_conditionals_loops.genruntimeconfig.cache
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/24_cs_conditionals_loops/obj/Debug/net9.0/ref/24_cs_conditionals_loops.dll
