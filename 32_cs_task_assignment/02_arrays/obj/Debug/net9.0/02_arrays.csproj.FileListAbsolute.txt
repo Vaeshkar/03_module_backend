@@ -1,0 +1,15 @@
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/32_cs_task_assignment/02_arrays/bin/Debug/net9.0/02_arrays
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/32_cs_task_assignment/02_arrays/bin/Debug/net9.0/02_arrays.deps.json
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/32_cs_task_assignment/02_arrays/bin/Debug/net9.0/02_arrays.runtimeconfig.json
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/32_cs_task_assignment/02_arrays/bin/Debug/net9.0/02_arrays.dll
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/32_cs_task_assignment/02_arrays/bin/Debug/net9.0/02_arrays.pdb
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/32_cs_task_assignment/02_arrays/obj/Debug/net9.0/02_arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/32_cs_task_assignment/02_arrays/obj/Debug/net9.0/02_arrays.AssemblyInfoInputs.cache
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/32_cs_task_assignment/02_arrays/obj/Debug/net9.0/02_arrays.AssemblyInfo.cs
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/32_cs_task_assignment/02_arrays/obj/Debug/net9.0/02_arrays.csproj.CoreCompileInputs.cache
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/32_cs_task_assignment/02_arrays/obj/Debug/net9.0/02_arrays.sourcelink.json
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/32_cs_task_assignment/02_arrays/obj/Debug/net9.0/02_arrays.dll
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/32_cs_task_assignment/02_arrays/obj/Debug/net9.0/refint/02_arrays.dll
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/32_cs_task_assignment/02_arrays/obj/Debug/net9.0/02_arrays.pdb
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/32_cs_task_assignment/02_arrays/obj/Debug/net9.0/02_arrays.genruntimeconfig.cache
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/32_cs_task_assignment/02_arrays/obj/Debug/net9.0/ref/02_arrays.dll

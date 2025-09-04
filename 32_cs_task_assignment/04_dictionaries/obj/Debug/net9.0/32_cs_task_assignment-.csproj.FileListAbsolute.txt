@@ -1,0 +1,15 @@
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/32_cs_task_assignment/04_dictionaries/bin/Debug/net9.0/32_cs_task_assignment-
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/32_cs_task_assignment/04_dictionaries/bin/Debug/net9.0/32_cs_task_assignment-.deps.json
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/32_cs_task_assignment/04_dictionaries/bin/Debug/net9.0/32_cs_task_assignment-.runtimeconfig.json
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/32_cs_task_assignment/04_dictionaries/bin/Debug/net9.0/32_cs_task_assignment-.dll
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/32_cs_task_assignment/04_dictionaries/bin/Debug/net9.0/32_cs_task_assignment-.pdb
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/32_cs_task_assignment/04_dictionaries/obj/Debug/net9.0/32_cs_task_assignment-.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/32_cs_task_assignment/04_dictionaries/obj/Debug/net9.0/32_cs_task_assignment-.AssemblyInfoInputs.cache
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/32_cs_task_assignment/04_dictionaries/obj/Debug/net9.0/32_cs_task_assignment-.AssemblyInfo.cs
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/32_cs_task_assignment/04_dictionaries/obj/Debug/net9.0/32_cs_task_assignment-.csproj.CoreCompileInputs.cache
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/32_cs_task_assignment/04_dictionaries/obj/Debug/net9.0/32_cs_task_assignment-.sourcelink.json
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/32_cs_task_assignment/04_dictionaries/obj/Debug/net9.0/32_cs_task_assignment-.dll
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/32_cs_task_assignment/04_dictionaries/obj/Debug/net9.0/refint/32_cs_task_assignment-.dll
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/32_cs_task_assignment/04_dictionaries/obj/Debug/net9.0/32_cs_task_assignment-.pdb
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/32_cs_task_assignment/04_dictionaries/obj/Debug/net9.0/32_cs_task_assignment-.genruntimeconfig.cache
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/32_cs_task_assignment/04_dictionaries/obj/Debug/net9.0/ref/32_cs_task_assignment-.dll
