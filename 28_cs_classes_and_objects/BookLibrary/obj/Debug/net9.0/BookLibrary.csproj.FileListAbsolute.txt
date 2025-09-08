@@ -1,0 +1,15 @@
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/28_cs_classes_and_objects/BookLibrary/obj/Debug/net9.0/BookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/28_cs_classes_and_objects/BookLibrary/obj/Debug/net9.0/BookLibrary.AssemblyInfoInputs.cache
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/28_cs_classes_and_objects/BookLibrary/obj/Debug/net9.0/BookLibrary.AssemblyInfo.cs
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/28_cs_classes_and_objects/BookLibrary/obj/Debug/net9.0/BookLibrary.csproj.CoreCompileInputs.cache
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/28_cs_classes_and_objects/BookLibrary/obj/Debug/net9.0/BookLibrary.sourcelink.json
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/28_cs_classes_and_objects/BookLibrary/bin/Debug/net9.0/BookLibrary
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/28_cs_classes_and_objects/BookLibrary/bin/Debug/net9.0/BookLibrary.deps.json
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/28_cs_classes_and_objects/BookLibrary/bin/Debug/net9.0/BookLibrary.runtimeconfig.json
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/28_cs_classes_and_objects/BookLibrary/bin/Debug/net9.0/BookLibrary.dll
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/28_cs_classes_and_objects/BookLibrary/bin/Debug/net9.0/BookLibrary.pdb
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/28_cs_classes_and_objects/BookLibrary/obj/Debug/net9.0/BookLibrary.dll
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/28_cs_classes_and_objects/BookLibrary/obj/Debug/net9.0/refint/BookLibrary.dll
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/28_cs_classes_and_objects/BookLibrary/obj/Debug/net9.0/BookLibrary.pdb
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/28_cs_classes_and_objects/BookLibrary/obj/Debug/net9.0/BookLibrary.genruntimeconfig.cache
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/28_cs_classes_and_objects/BookLibrary/obj/Debug/net9.0/ref/BookLibrary.dll

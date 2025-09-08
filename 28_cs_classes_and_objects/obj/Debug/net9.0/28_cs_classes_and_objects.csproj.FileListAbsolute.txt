@@ -1,0 +1,15 @@
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/28_cs_classes_and_objects/bin/Debug/net9.0/28_cs_classes_and_objects
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/28_cs_classes_and_objects/bin/Debug/net9.0/28_cs_classes_and_objects.deps.json
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/28_cs_classes_and_objects/bin/Debug/net9.0/28_cs_classes_and_objects.runtimeconfig.json
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/28_cs_classes_and_objects/bin/Debug/net9.0/28_cs_classes_and_objects.dll
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/28_cs_classes_and_objects/bin/Debug/net9.0/28_cs_classes_and_objects.pdb
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/28_cs_classes_and_objects/obj/Debug/net9.0/28_cs_classes_and_objects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/28_cs_classes_and_objects/obj/Debug/net9.0/28_cs_classes_and_objects.AssemblyInfoInputs.cache
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/28_cs_classes_and_objects/obj/Debug/net9.0/28_cs_classes_and_objects.AssemblyInfo.cs
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/28_cs_classes_and_objects/obj/Debug/net9.0/28_cs_classes_and_objects.csproj.CoreCompileInputs.cache
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/28_cs_classes_and_objects/obj/Debug/net9.0/28_cs_classes_and_objects.sourcelink.json
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/28_cs_classes_and_objects/obj/Debug/net9.0/28_cs_classes_and_objects.dll
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/28_cs_classes_and_objects/obj/Debug/net9.0/refint/28_cs_classes_and_objects.dll
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/28_cs_classes_and_objects/obj/Debug/net9.0/28_cs_classes_and_objects.pdb
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/28_cs_classes_and_objects/obj/Debug/net9.0/28_cs_classes_and_objects.genruntimeconfig.cache
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/28_cs_classes_and_objects/obj/Debug/net9.0/ref/28_cs_classes_and_objects.dll

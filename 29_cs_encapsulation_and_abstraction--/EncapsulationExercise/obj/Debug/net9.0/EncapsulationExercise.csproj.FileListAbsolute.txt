@@ -1,0 +1,5 @@
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/29_cs_encapsulation_and_abstraction--/EncapsulationExercise/obj/Debug/net9.0/EncapsulationExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/29_cs_encapsulation_and_abstraction--/EncapsulationExercise/obj/Debug/net9.0/EncapsulationExercise.AssemblyInfoInputs.cache
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/29_cs_encapsulation_and_abstraction--/EncapsulationExercise/obj/Debug/net9.0/EncapsulationExercise.AssemblyInfo.cs
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/29_cs_encapsulation_and_abstraction--/EncapsulationExercise/obj/Debug/net9.0/EncapsulationExercise.csproj.CoreCompileInputs.cache
+/Users/leeuwen/Programming/WBS_Coding_School/03_module_backend/29_cs_encapsulation_and_abstraction--/EncapsulationExercise/obj/Debug/net9.0/EncapsulationExercise.sourcelink.json
